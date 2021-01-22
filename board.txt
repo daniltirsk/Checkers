@@ -1,0 +1,6 @@
+White: 1
+MD5
+Black: 2
+C4
+C2
+E2
